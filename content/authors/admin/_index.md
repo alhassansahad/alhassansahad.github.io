@@ -49,7 +49,7 @@ social:
     link: https://github.com/alhassansahad/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/alhassan-sahad735a13160/
+    link: https://www.linkedin.com/in/alhassan-sahad-735a13160/
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@sahadalhassan96/
