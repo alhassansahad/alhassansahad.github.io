@@ -24,11 +24,11 @@ twitter: ''
 #phone: 888 888 88 88
 address:
   #street: 450 Serra Mall
-  city: Kolkata
-  region: West Bengal
+  city: Columbia
+  region: Missouri
   #postcode: '94305'
-  country: India
-  country_code: IN
+  country: United States
+  country_code: USA
 coordinates:
   latitude: '22.5726'
   longitude: '88.3639'
@@ -55,7 +55,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: 1
+  align: 3
   show_logo: true
   show_language: false
   show_day_night: true
