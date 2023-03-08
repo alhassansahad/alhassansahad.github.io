@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments'
+title: "Accomplishments"
 subtitle:
 
 # Date format
@@ -25,32 +25,32 @@ subtitle:
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://hackerrank.com/thepankj
-  date_end: ""
-  date_start: "2021-05-01"
-  description: "Got 5:star: badge for solving problems on Data Structures and Algorithms"
-  organization: HackerRank
-  organization_url: https://hackerrank.com/
-  title: '5 :star: badge for Problem Solving'
-  url: "https://www.hackerrank.com/thepankj"
-  
-- certificate_url: https://hackerrank.com/thepankj
-  date_end: ""
-  date_start: "2021-04-01"
-  description: "Got 5:star: badge for solving problems on SQL"
-  organization: HackerRank
-  organization_url: https://hackerrank.com/
-  title: '5 :star: badge for solving SQL problems'
-  url: "https://www.hackerrank.com/thepankj"
+  - certificate_url: https://hackerrank.com/thepankj
+    date_end: ""
+    date_start: "2021-05-01"
+    description: "Got 5:star: badge for solving problems on Data Structures and Algorithms"
+    organization: HackerRank
+    organization_url: https://hackerrank.com/
+    title: "5 :star: badge for Problem Solving"
+    url: "https://www.hackerrank.com/thepankj"
 
-- certificate_url: https://leetcode.com/thepankj
-  date_end: ""
-  date_start: "2021-04-01"
-  description: "Got 2:star: badge for solving problems on Data Structures and Algorithms"
-  organization: LeetCode
-  organization_url: https://hackerrank.com/
-  title: '2 :star: for Data Structures and Algorithms'
-  url: "https://www.leetcode.com/thepankj"
+  - certificate_url: https://hackerrank.com/thepankj
+    date_end: ""
+    date_start: "2021-04-01"
+    description: "Got 5:star: badge for solving problems on SQL"
+    organization: HackerRank
+    organization_url: https://hackerrank.com/
+    title: "5 :star: badge for solving SQL problems"
+    url: "https://www.hackerrank.com/thepankj"
+
+  - certificate_url: https://leetcode.com/thepankj
+    date_end: ""
+    date_start: "2021-04-01"
+    description: "Got 2:star: badge for solving problems on Data Structures and Algorithms"
+    organization: LeetCode
+    organization_url: https://hackerrank.com/
+    title: "2 :star: for Data Structures and Algorithms"
+    url: "https://www.leetcode.com/thepankj"
 design:
-  columns: '2' 
+  columns: "2"
 ---
