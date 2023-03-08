@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Pankaj Gupta # Website name
-baseurl: 'https://thepankj.github.io/' # Website URL
-copyright: '© {year} Pankaj Gupta' # Footer text, e.g. '© {year} Me'
+title: Alhassan Sahad # Website name
+baseurl: 'https://sahadalhassan.com/' # Website URL
+copyright: '© {year} Alhassan Sahad' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
