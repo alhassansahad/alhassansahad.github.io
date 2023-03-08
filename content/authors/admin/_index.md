@@ -11,7 +11,7 @@ role: PhD (Informatics)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Missouri
-    url: https:missouri.edu
+    #url: https:missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My area of interest include Remote Sensing,Machine Learning, and Geospatial Analytics
