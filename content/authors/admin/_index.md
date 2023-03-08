@@ -46,16 +46,16 @@ social:
     link: "/#contact"
   - icon: github
     icon_pack: fab
-    link: https://github.com/thepankj/
+    link: https://github.com/alhassansahad/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/thepankj/
+    link: https://www.linkedin.com/in/alhassan-sahad735a13160/
   - icon: medium
     icon_pack: fab
-    link: https://medium.com/@thepankj/
+    link: https://medium.com/@sahadalhassan96/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/thepankj/
+    link: https://twitter.com/AlhassanSahad2/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
