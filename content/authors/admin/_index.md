@@ -11,7 +11,7 @@ role: PhD (Informatics)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Missouri
-    url: https:missouri.edu/
+    url: https:missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My area of interest include Remote Sensing,Machine Learning, and Geospatial Analytics
@@ -75,8 +75,4 @@ I am PhD student at the Institute for Data Science and Informatics, University o
 
 Earlier, I obtained my Masters Degree in Hydrogeology and GIS from Illinois State University. I worked on the using Using Machine Learning to predict water quality some watersheds in Illinois, I also worked on the use of Tracer test to assess the Transport and Fate of Nitrate in a Buffer Zone
 
-I use open source geospatial tools for analyzing complex geospatial data to draw insight from them to solve problems related to water resources, environmental monitoring and health. I place great value on the replicability of research and data science projects. To achieve this, I prefer utilizing a programming approach rather than relying on point and click software for conducting such projects. As a result, I primarily analyze my data in a Python programming environment.
-
-I am currently working on using machine learning for nitrogen risk prediction in the state of Missouri.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I use open source geospatial tools for analyzing complex geospatial data to draw insight from them to solve problems related to water resources, environmental monitoring and health. I place great value on the replicability of research and data science projects. To achieve this, I prefer utilizing a programming approach rather than relying on point and click software for conducting such projects. As a result, I primarily analyze my data in a Python programming environment.I am currently working on using machine learning for nitrogen risk prediction in the state of Missouri.
