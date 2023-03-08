@@ -1,64 +1,64 @@
 ---
 # Display name
-title: Pankaj Gupta
+title: Alhassan Sahad
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MSc (Data Science)
+role: PhD (Informatics)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Central University of Rajasthan
-  url: https://curaj.ac.in/
+  - name: University of Missouri
+    url: https:missouri.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My area of interest includes Computer Vision, NLP and Machine Learning
+bio: My area of interest include Remote Sensing,Machine Learning, and Geospatial Analytics
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Computer Vision
-- Artificial Intelligence
-- Natural Language Processing
+  - Machine Learning
+  - Remote Sensing
+  - Geospatial Analytics
+  - Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Big Data Analytics
-    institution: Central University of Rajasthan
-    year: 2019-2021
-  - course: BSc in Mathematics
-    institution: Bishop Heber College
-    year: 2016-2019
-  - course: HSSLC
-    institution: Kohima Science College
-    year: 2014-2016
+    - course: PhD Informatics
+      institution: University of Missouri
+      year: 2022-2025
+    - course: MS Hydrogeology and GIS
+      institution: Illinois State University
+      year: 2019-2022
+    - course: BS Geological Engineering
+      institution: Kwame Nkrumah University of Science and Technology
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: github
-  icon_pack: fab
-  link: https://github.com/thepankj/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/thepankj/
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@thepankj/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/thepankj/
-  
+  - icon: envelope
+    icon_pack: fas
+    link: "/#contact"
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/thepankj/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/thepankj/
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@thepankj/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/thepankj/
+
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 #- icon: cv
 #   icon_pack: ai
