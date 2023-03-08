@@ -56,4 +56,5 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+view: 2
 ---
