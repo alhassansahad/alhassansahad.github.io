@@ -71,12 +71,12 @@ email: ""
 highlight_name: false
 ---
 
-I'm a Data Science student currently pursuing my MSc Computer Science (Big Data Analytics) course from the Central University of Rajasthan.
+I am PhD student at the Institute for Data Science and Informatics, University of Missouri-Columbia with specialization in Geoinformatics. My research interests focuses on Machine Learning and AI applications in Hydrology, Remote Sensing and Geospatial Data Analytics. Currently, I am a Research Assistant under the supervision of Dr.Timothy Haithcoat.
 
-My area of interests includes Machine Learning, Computer Vision and Deep Learning.
+Earlier, I obtained my Masters Degree in Hydrogeology and GIS from Illinois State University. I worked on the using Using Machine Learning to predict water quality some watersheds in Illinois, I also worked on the use of Tracer test to assess the Transport and Fate of Nitrate in a Buffer Zone
 
-I have done my Bachelors in Mathematics and am interested in anything that is mathematically inclined.
+I use open source geospatial tools for analyzing complex geospatial data to draw insight from them to solve problems related to water resources, environmental monitoring and health. I place great value on the replicability of research and data science projects. To achieve this, I prefer utilizing a programming approach rather than relying on point and click software for conducting such projects. As a result, I primarily analyze my data in a Python programming environment.
 
-I have varied interests which includes sketching, cryptocurrencies, trading, food and the world in general.
+I am currently working on using machine learning for nitrogen risk prediction in the state of Missouri.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
