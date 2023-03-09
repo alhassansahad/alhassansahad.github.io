@@ -31,7 +31,7 @@ education:
       year: 2022-2025
     - course: MS Hydrogeology and GIS
       institution: Illinois State University
-      year: 2020-2022
+      year: 2019-2022
     - course: BS Geological Engineering
       institution: Kwame Nkrumah University of Science and Technology
       year: 2015-2019
