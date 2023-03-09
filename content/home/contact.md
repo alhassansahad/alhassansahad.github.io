@@ -4,7 +4,7 @@
 widget: contact
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -17,7 +17,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: false
+  autolink: true
 
   # Email form provider
   form:
