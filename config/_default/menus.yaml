@@ -16,8 +16,8 @@ main:
 #  - name: Posts
   #  url: '#posts'
    # weight: 40
-  #- name: Contact
-  #  url: '#contact'
+  - name: Contact
+    url: '#contact'
     #weight: 50
 #  - name: Talks
  #   url: '#talks'
@@ -25,10 +25,6 @@ main:
 #  - name: Publications
  #   url: '#featured'
   #  weight: 50
-  - name: Contact
-    url: '#Contact/contact.html' 
-    weight: 50
-
 
 
 # Link to a PDF of your resume/CV from the menu.
