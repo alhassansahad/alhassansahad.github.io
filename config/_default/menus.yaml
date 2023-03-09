@@ -26,7 +26,7 @@ main:
  #   url: '#featured'
   #  weight: 50
   - name: Contact
-    url: '#Contact' 
+    url: '#Contact/contact.html' 
     weight: 50
 
 
