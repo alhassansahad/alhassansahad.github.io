@@ -18,7 +18,7 @@ main:
    # weight: 40
   - name: Contact
     url: '#contact'
-    #weight: 50
+    weight: 50
 #  - name: Talks
  #   url: '#talks'
   #  weight: 40
