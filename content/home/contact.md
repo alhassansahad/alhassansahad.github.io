@@ -4,7 +4,7 @@
 widget: contact
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -18,7 +18,14 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" 
+data-url="https://calendly.com/sahadalhassan"
+ style="min-width:320px;
+ height:630px;"></div>
+<script type="text/javascript"
+ src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
   # Email form provider
   form:
     provider: netlify
