@@ -48,7 +48,7 @@ experience:
     company_url: "https://apps.knust.edu.gh/"
     #company_logo: caciitg
     location: United States
-    #date_start: "2020-01-11"
+    date_start: "2020-01-11"
     #date_end: "2022-05-15"
     description: |2-
 
