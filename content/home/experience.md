@@ -25,32 +25,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: University of Missouri-Columbia,MO
-    company_url: "https://missouri.edu/"
-    #company_logo: missou-logo.png
-    location: United States
-    date_start: "2022-08-01"
-    date_end: "present"
+  - title: Data Science Intern
+    company: Tata Consultancies Services
+    company_url: ''
+    company_logo: tcs
+    location: India
+    date_start: '2021-02-22'
+    date_end: '2021-06-22'
     description: |2-
+        Worked on an NLP project, specifically a question-answering chatbot, wherein I had to test and compare different models like BERT, LSTM and POS tagging to extract entities and return the answer to the given question.
+        
+          Responsibilities include:
+          
+            * Analyzing the dataset
+            * Visualization and data exploration
+            * Modelling and comparing the results
 
-  - title: Teaching and Research Assistant
-    company: Illinois State University
-    company_url: "https://illinoisstate.edu/"
-    #company_logo: isu-logo.png
-    location: United States
-    date_start: "2021-10-01"
-    date_end: "2022-05-15"
+  
+  - title: Data Science Participant
+    company: Consulting and Analytics Club, IITG
+    company_url: ''
+    company_logo: caciitg
+    location: India
+    date_start: '2020-04-01'
+    date_end: '2020-06-25'
     description: |2-
+        I took part in the Summer Analytics organized by Consulting and Analytics Club of IITG wherein I learnt a lot about various Machine Learning techniques. It was a comprehensive course on Visualization, EDA techniques and ML Algorithms.
+        The last phase of the program had a Capstone Project in the form of a competition where I was placed in the top 50 percentile of the participants.
+        
+          Things I learnt:
+          
+            * Exploratory Data Analysis
+            * Visualization techniques
+            * Bagging and boosting techniques
 
-  - title: Teaching and Research Assistant
-    company: Kwame Nkrumah University
-    company_url: "https://apps.knust.edu.gh/"
-    #company_logo: knust-logo.png
-    location: United States
-    date_start: "2019-01-08"
-    date_end: "2020-01-08"
-    description: |2-
 design:
-  columns: "2"
+  columns: '2'
 ---
