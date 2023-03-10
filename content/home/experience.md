@@ -29,9 +29,9 @@ experience:
     company: University of Missouri-Columbia
     company_url: "https://missouri.edu/"
     company_logo: tcs
-    location: India
-    date_start: "2021-02-22"
-    date_end: "2021-06-22"
+    location: United States
+    date_start: "2020-01-08"
+    date_end: "present"
     description: |2-
         Worked on an NLP project, specifically a question-answering chatbot, wherein I had to test and compare different models like BERT, LSTM and POS tagging to extract entities and return the answer to the given question.
         
