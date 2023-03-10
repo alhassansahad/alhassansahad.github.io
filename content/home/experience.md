@@ -44,12 +44,12 @@ experience:
     description: |2-
 
    - title: Teaching and Research assignment
-    company: Illinois State University
+    company: Kwame Nkrumah University of Sciece and Technology
     company_url: "https://apps.knust.edu.gh/"
     #company_logo: caciitg
     location: United States
-    date_start: "2020-01-11"
-    date_end: "2022-05-15"
+    #date_start: "2020-01-11"
+    #date_end: "2022-05-15"
     description: |2-
  
 
