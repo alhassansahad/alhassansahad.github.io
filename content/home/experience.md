@@ -37,7 +37,7 @@ experience:
   - title: Teaching and Research Assistant
     company: Illinois State University
     company_url: "https://illinoisstate.edu/"
-    company_logo: caciitg
+    company_logo: isu-logo
     location: United States
     date_start: "2020-01-11"
     date_end: "2022-05-15"
@@ -47,7 +47,7 @@ experience:
     company: Kwame Nkrumah University of Sciece and Technology
     company_url: "https://apps.knust.edu.gh/"
     #company_logo: caciitg
-    location: United States
+    location: Ghana
     date_start: "2019-08-01"
     date_end: "2020-08-01"
     description: |2-
