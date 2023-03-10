@@ -55,7 +55,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align: l
   show_logo: true
   show_language: false
   show_day_night: true
@@ -72,7 +72,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - l
+  - r
 math: false
 diagram: false
 privacy_pack: false
