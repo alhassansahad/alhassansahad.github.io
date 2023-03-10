@@ -28,7 +28,7 @@ experience:
   - title: Research Assistant
     company: University of Missouri-Columbia
     company_url: "https://missouri.edu/"
-    company_logo: tcs
+    #company_logo: tcs
     location: United States
     date_start: "2022-08-01"
     #date_end: "present"
