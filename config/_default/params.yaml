@@ -72,7 +72,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - l
 math: false
 diagram: false
 privacy_pack: false
