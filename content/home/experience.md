@@ -43,7 +43,7 @@ experience:
     date_end: "2022-05-15"
     description: |2-
 
-   - title: Teaching and Research assignment
+  - title: Teaching and Research assignment
     company: Kwame Nkrumah University of Sciece and Technology
     company_url: "https://apps.knust.edu.gh/"
     #company_logo: caciitg
@@ -51,7 +51,6 @@ experience:
     #date_start: "2020-01-11"
     #date_end: "2022-05-15"
     description: |2-
- 
 
 design:
   columns: "2"
