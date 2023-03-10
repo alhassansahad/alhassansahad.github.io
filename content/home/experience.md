@@ -30,26 +30,18 @@ experience:
     company_url: "https://missouri.edu/"
     company_logo: tcs
     location: United States
-    date_start: "2020-08-01"
+    date_start: "2022-08-01"
     #date_end: "present"
     description: |2-
 
-  - title: Data Science Participant
-    company: Consulting and Analytics Club, IITG
-    company_url: ""
+  - title: Teaching and Research assignment
+    company: Illinois State University
+    company_url: "https://illinoisstate.edu/"
     company_logo: caciitg
-    location: India
-    date_start: "2020-04-01"
-    date_end: "2020-06-25"
+    location: United States
+    date_start: "2020-01-11"
+    date_end: "2022-05-15"
     description: |2-
-        I took part in the Summer Analytics organized by Consulting and Analytics Club of IITG wherein I learnt a lot about various Machine Learning techniques. It was a comprehensive course on Visualization, EDA techniques and ML Algorithms.
-        The last phase of the program had a Capstone Project in the form of a competition where I was placed in the top 50 percentile of the participants.
-        
-          Things I learnt:
-          
-            * Exploratory Data Analysis
-            * Visualization techniques
-            * Bagging and boosting techniques
 
 design:
   columns: "2"
