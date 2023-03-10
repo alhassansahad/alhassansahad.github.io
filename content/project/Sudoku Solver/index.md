@@ -8,7 +8,7 @@ tags:
 date: "2021-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/thepankj/Sudoku-Solver"
+external_link: "https://github.com/alhassansahad/streamflow-monitor"
 
 image:
   caption: Photo from Google
