@@ -53,6 +53,7 @@ experience:
     date_start: "2019-08-01"
     date_end: "2020-08-01"
     description: |2-
+
 design:
   columns: "2"
 ---
