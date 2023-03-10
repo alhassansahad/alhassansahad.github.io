@@ -37,7 +37,7 @@ experience:
   - title: Teaching and Research Assistant
     company: Illinois State University
     company_url: "https://illinoisstate.edu/"
-    company_logo: isu-logo.png
+    #company_logo: isu-logo.png
     location: United States
     date_start: "2020-01-11"
     date_end: "2022-05-15"
