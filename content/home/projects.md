@@ -32,10 +32,10 @@ content:
       tag: "*"
     - name: Machine Learning
       tag: Machine Learning
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: NLP
-      tag: NLP
+    - name: Geospatial Data Science
+      tag: Geospatial Data Science
+    - name: Remote Sensing
+      tag: Remote Sensing
     - name: Other
       tag: Demo
 

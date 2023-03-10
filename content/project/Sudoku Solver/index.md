@@ -1,26 +1,23 @@
 ---
-title: Sudoku Solver
-summary: 'An application that takes in an image of a Sudoku and outputs the solved Sudoku projected on the image.
-          Used variety of `Computer Vision` techniques to extract the Sudoku grids and solve it and project the
-          solved image.'
+title: Stream Flow Monitor
+summary: "A code for easily monitoring of streamflow data collected by USGS. All that is needed is the gage number and historical streamflow can be visualized. Streamflow is the amount of water flowing through a given point of water per unit time. It is a major hydrological variable that is measured in hydrologic modeling. streamflow gives a rough idea about the quantity of water resources in a given watershed"
 tags:
-- Deep Learning
-- Other
+  - Other
 
 date: "2021-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/thepankj/Sudoku-Solver"
+external_link: "https://github.com/alhassansahad/streamflow-monitor"
 
 image:
   caption: Photo from Google
   focal_point: Smart
 
 links:
-- icon: ipynb
-  #icon_pack: 
-  name: View IPYNB Notebook
-  url: https://github.com/thepankj/Sudoku-Solver/blob/main/Sudoku_Solver.ipynb
+  - icon: ipynb
+    #icon_pack:
+    name: View IPYNB Notebook
+    url: https://github.com/thepankj/Sudoku-Solver/blob/main/Sudoku_Solver.ipynb
 url_code: ""
 url_pdf: ""
 url_slides: ""
