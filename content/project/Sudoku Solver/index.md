@@ -18,7 +18,7 @@ links:
   - icon: Code
     #icon_pack:
     name: Code
-    url: https://github.com/thepankj/Sudoku-Solver/blob/main/Sudoku_Solver.ipynb
+    url: https://github.com/alhassansahad/streamflow-monitor/blob/main/streamflow_monitor.py
 url_code: ""
 url_pdf: ""
 url_slides: ""
