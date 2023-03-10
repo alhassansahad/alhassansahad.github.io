@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title: Projects
-subtitle: "Some projects I've worked on"
+#subtitle: "Some projects I've worked on"
 
 content:
   # Page type to display. E.g. project.
