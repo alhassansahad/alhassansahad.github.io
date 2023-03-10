@@ -28,7 +28,7 @@ experience:
   - title: Research Assistant
     company: University of Missouri-Columbia,MO
     company_url: "https://missouri.edu/"
-    company_logo: missou-logo.png
+    #company_logo: missou-logo.png
     location: United States
     date_start: "2022-08-01"
     date_end: "present"
@@ -37,7 +37,7 @@ experience:
   - title: Teaching and Research Assistant
     company: Illinois State University
     company_url: "https://illinoisstate.edu/"
-    company_logo: isu-logo.png
+    #company_logo: isu-logo.png
     location: United States
     date_start: "2021-10-01"
     date_end: "2022-05-15"
@@ -46,7 +46,7 @@ experience:
   - title: Teaching and Research Assistant
     company: Kwame Nkrumah University
     company_url: "https://apps.knust.edu.gh/"
-    company_logo: knust-logo.png
+    #company_logo: knust-logo.png
     location: United States
     date_start: "2019-01-08"
     date_end: "2020-01-08"
