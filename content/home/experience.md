@@ -33,13 +33,6 @@ experience:
     date_start: "2020-08-01"
     #date_end: "present"
     description: |2-
-        Worked on an NLP project, specifically a question-answering chatbot, wherein I had to test and compare different models like BERT, LSTM and POS tagging to extract entities and return the answer to the given question.
-        
-          Responsibilities include:
-          
-            * Analyzing the dataset
-            * Visualization and data exploration
-            * Modelling and comparing the results
 
   - title: Data Science Participant
     company: Consulting and Analytics Club, IITG
