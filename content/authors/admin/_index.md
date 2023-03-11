@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/#contact"
+    link: "mailto:as9zz@missouri.edu"
   - icon: github
     icon_pack: fab
     link: https://github.com/alhassansahad/
