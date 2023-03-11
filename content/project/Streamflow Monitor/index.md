@@ -1,6 +1,6 @@
 ---
 title: Stream Flow Monitor
-summary: "A code for easily monitoring of streamflow data collected by USGS. All that is needed is the gage number and historical streamflow can be visualized. Streamflow is the amount of water flowing through a given point of water per unit time. It is a major hydrological variable that is measured in hydrologic modeling. streamflow gives a rough idea about the quantity of water resources in a given watershed"
+summary: "This project aims to simplify the process of monitoring streamflow data collected by USGS. By simply providing the gage number, users can easily visualize the historical streamflow information. Streamflow is a crucial hydrological variable used in hydrologic modeling, as it represents the amount of water flowing through a particular point per unit time. This program offers a convenient way to gain insight into the quantity of water resources within a given watershed by analyzing the streamflow data"
 tags:
   #- Deep Learning
   - Other
