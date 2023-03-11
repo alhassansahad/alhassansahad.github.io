@@ -65,10 +65,10 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "as9zz@missouri.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am PhD student at the Institute for Data Science and Informatics, University of Missouri-Columbia with specialization in Geoinformatics. My research interests focuses on Machine Learning and AI applications in Hydrology, Remote Sensing and Geospatial Data Analytics. Currently, I am a Research Assistant under the supervision of Dr.Timothy Haithcoat.
