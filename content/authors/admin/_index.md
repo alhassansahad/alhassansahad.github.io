@@ -50,12 +50,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alhassan-sahad-735a13160/
-  - icon: medium
-    icon_pack: fab
-    link: https://medium.com/@sahadalhassan96/
+  -  #icon: medium
+    #icon_pack: fab
+    #link: https://medium.com/@sahadalhassan96/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlhassanSahad2/
+  - icon: CV
+    icon_pack: fab
+    link: https://drive.google.com/file/d/1Uo07VCGaUbNwQQd_kpepICSURSFxOmVs/view?usp=sharing
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
