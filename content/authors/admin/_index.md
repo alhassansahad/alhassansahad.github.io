@@ -50,9 +50,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alhassan-sahad-735a13160/
-  - icon: medium
-    icon_pack: fab
-    link: https://medium.com/@sahadalhassan96/
+  #- icon: medium
+  # icon_pack: fab
+  # link: https://medium.com/@sahadalhassan96/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlhassanSahad2/
