@@ -1,4 +1,4 @@
-# Get in touch!
+<h1 style="text-align: center;">Get in touch!</h3>
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/sahadalhassan" style="min-width:320px;height:630px;"></div>
