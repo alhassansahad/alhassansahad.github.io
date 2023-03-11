@@ -57,8 +57,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/AlhassanSahad2/
   - icon: CV
-    icon_pack: fab
-    link: https://drive.google.com/file/d/1Uo07VCGaUbNwQQd_kpepICSURSFxOmVs/view?usp=sharing
+    #icon_pack: fab
+    link: https://drive.google.com/file/d/1Uo07VCGaUbNwQQd_kpepICSURSFxOmVs/view?usp=sharing/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
