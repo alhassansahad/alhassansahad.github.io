@@ -32,10 +32,10 @@ content:
       tag: "*"
     - name: Machine Learning
       tag: Machine Learning
-    - name: Geospatial Data Science
-      tag: Geospatial Data Science
-    - name: Remote Sensing
-      tag: Remote Sensing
+    - name: Data Science
+      tag: Data Science
+    - name: GIS and Remote Sensing
+      tag: GIS and Remote Sensing
     - name: Other
       tag: Other
 
