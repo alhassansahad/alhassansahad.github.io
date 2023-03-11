@@ -10,7 +10,7 @@ role: PhD (Informatics)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Missouri
+  - name: University of Missouri-Columbia
     url: https://muidsi.missouri.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ interests:
 education:
   courses:
     - course: PhD Informatics
-      institution: University of Missouri
+      institution: University of Missouri-Columbia
       year: 2022-2025
     - course: MS Hydrogeology and GIS
       institution: Illinois State University
