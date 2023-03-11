@@ -1,4 +1,4 @@
-# Schedule an appoinment with me
+# Get in touch!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/sahadalhassan" style="min-width:320px;height:630px;"></div>
